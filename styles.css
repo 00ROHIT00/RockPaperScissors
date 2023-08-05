@@ -1,0 +1,34 @@
+*
+{
+    box-sizing: border-box;
+    margin : 0;
+    padding : 0;
+}
+
+body{
+    background-color : #0a0f10;
+    color : #6a9aa4;
+    text-align: center;
+}
+
+#opponent-choice
+{
+    width : 240px;
+    height : 240px;
+    margin-top : 10px;
+    border : grey 1px solid;
+}
+#player-choice
+{
+    width : 240px;
+    height : 240px;
+    margin-top : 10px;
+    margin-bottom : 10px;
+    border : grey 1px solid;
+}
+.choices{
+    border : grey 1px solid;
+    width : 240px;
+    height : 80px;
+    margin : 0 auto;
+}
